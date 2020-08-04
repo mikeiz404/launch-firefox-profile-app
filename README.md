@@ -1,4 +1,7 @@
 # About
+![Example Apps](.resources/example-apps.png)
+![Example Dock](.resources/example-dock.png)
+
 Using Firefox with multiple profiles can be cumbersome even with apps like `MultiFirefox`.
 For profiles which are used often it can be handy to have a dedicated way to launch the profile which looks like a native application with 1) its own name 2) its own dock icon 3) an easily identifiable icon.
 
